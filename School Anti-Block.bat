@@ -13,8 +13,8 @@ Echo.
 pause
 cls
 :x
-taskkill /im lsproxy.exe /f
-taskkill /im LSSASvc.exe /f
-taskkill /im smart-agent-js-win.exe /f
-taskkill /im makeca.exe /f
+taskkill /F /im lsproxy.exe
+taskkill /F /im LSSASvc.exe
+taskkill /F /im smart-agent-js-win.exe
+taskkill /F /im makeca.exe
 goto x
