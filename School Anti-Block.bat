@@ -1,5 +1,5 @@
 @echo off
-Color 02
+Color 05
 Title School Anti-Block
 Echo.
 Echo ================================
