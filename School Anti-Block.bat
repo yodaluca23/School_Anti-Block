@@ -8,6 +8,10 @@ Echo      Created by yodaluca23
 Echo            v1.0.1
 Echo ================================
 Echo.
+Echo.
+Echo.
+pause
+cls
 :x
 taskkill /im lsproxy.exe /f
 taskkill /im LSSASvc.exe /f
