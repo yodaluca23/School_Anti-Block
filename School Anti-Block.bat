@@ -4,7 +4,10 @@ Title School Anti-Block
 Echo.
 Echo ================================
 Echo    Windows School Anti-Block
-Echo      Created by yodaluca23
+Echo          Created by:
+Color 03
+Echo          @yodaluca23
+Color 05
 Echo            v1.0.1
 Echo ================================
 Echo.
