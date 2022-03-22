@@ -8,7 +8,7 @@ Echo          Created by:
 Color 03
 Echo          @yodaluca23
 Color 05
-Echo            v1.0.1
+Echo            v1.2.1
 Echo ================================
 Echo.
 Echo.
