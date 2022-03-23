@@ -1,17 +1,11 @@
 @echo off
-SETLOCAL EnableDelayedExpansion
-for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1) do     rem"') 
-
-do (
-  set "DEL=%%a"
-)
 Color 05
 Title School Anti-Block
 Echo.
 Echo ================================
 Echo    Windows School Anti-Block
 Echo          Created by:
-call :colorEcho 03 "          @yodaluca23"
+powershell write-host -fore Cyan           @yodaluca23
 Echo            v1.2.1
 Echo ================================
 Echo.
@@ -37,8 +31,3 @@ Echo.
 Echo.
 Echo An Unforscene Error Has Occured Please Reopen The Script.
 Echo.
-:colorEcho
-echo off
-<nul set /p ".=%DEL%" > "%~2"
-findstr /v /a:%1 /R "^$" "%~2" nul
-del "%~2" > nul 2>&1\
