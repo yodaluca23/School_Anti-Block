@@ -33,5 +33,9 @@ findstr /v /a:%1 /R "^$" "%~2" nul
 del "%~2" > nul 2>&1\
 Echo.
 Echo.
-Echo An Error Has Ocurred Retrying...
+Echo An Error Has Ocurred.
+Echo.
+Echo.
+Echo Would you like to retry?
+pause
 goto Error
