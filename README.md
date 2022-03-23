@@ -11,7 +11,7 @@ How to install:
 3. Open up the folder you saved it to and double-click it.
 4. Follow any and all instructions in the command prompt.
 
-Faqs:
+FAQs:
 
 Why does it say "Error Access Denied"?
 This is likely because your IT department for your school district has not given your user the privileges to end processes. I am currently working and testing on a fix for this.
