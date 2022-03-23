@@ -39,3 +39,4 @@ Echo.
 Echo Would you like to retry?
 pause
 goto Error
+Echo An Unforscene Error Has Occured Please Reopen The Script.
