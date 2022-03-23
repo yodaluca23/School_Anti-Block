@@ -5,9 +5,7 @@ Echo.
 Echo ================================
 Echo    Windows School Anti-Block
 Echo          Created by:
-Color 03
-Echo          @yodaluca23
-Color 05
+call :colorEcho 02 "          @yodaluca23"
 Echo            v1.2.1
 Echo ================================
 Echo.
