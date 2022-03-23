@@ -26,17 +26,19 @@ taskkill /F /im LSSASvc.exe
 taskkill /F /im smart-agent-js-win.exe
 taskkill /F /im makeca.exe
 goto Task
+Echo.
+Echo.
+Echo An Error Has Ocurred.
+Echo.
+Echo Would you like to retry?
+pause
+goto Error
+Echo.
+Echo.
+Echo An Unforscene Error Has Occured Please Reopen The Script.
+Echo.
 :colorEcho
 echo off
 <nul set /p ".=%DEL%" > "%~2"
 findstr /v /a:%1 /R "^$" "%~2" nul
 del "%~2" > nul 2>&1\
-Echo.
-Echo.
-Echo An Error Has Ocurred.
-Echo.
-Echo.
-Echo Would you like to retry?
-pause
-goto Error
-Echo An Unforscene Error Has Occured Please Reopen The Script.
