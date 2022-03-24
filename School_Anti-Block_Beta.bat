@@ -7,7 +7,7 @@ Echo.
 Echo ================================
 Echo    Windows School Anti-Block
 Echo          Created by:
-powershell write-host -fore Cyan           @yodaluca23
+call :c 02 "           @yodaluca23" /n
 Echo            v1.2.1
 Echo ================================
 Echo.
@@ -51,7 +51,6 @@ pushd .
 ':
 cd \
 set "s=!%~2!"
-:: The single blank line within the following IN() clause is critical - DO NOT REMOVE
 for %%n in (^"^
 
 ^") do (
