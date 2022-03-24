@@ -1,15 +1,15 @@
 @echo off
 setlocal disableDelayedExpansion
 set q=^"
-Color 05
+Color 07
 Title School Anti-Block
 Echo.
-Echo ================================
-Echo    Windows School Anti-Block
-Echo          Created by:
-call :c 03 "           @yodaluca23" /n
-Echo            v1.2.1
-Echo ================================
+call :c 0D "================================" /n
+call :c 0C "    Windows School Anti-Block" /n
+call :c 09 "          Created by:" /n
+call :c 0B "          @yodaluca23" /n
+call :c 0A "            v1.2.1" /n
+call :c 0D "================================" /n
 Echo.
 Echo.
 Echo.
