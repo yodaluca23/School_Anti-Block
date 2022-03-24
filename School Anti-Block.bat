@@ -15,10 +15,10 @@ pause
 :Error
 cls
 :Task
-taskkill /F /im lsproxy.exe
-taskkill /F /im LSSASvc.exe
-taskkill /F /im smart-agent-js-win.exe
-taskkill /F /im makeca.exe
+taskkill /F /im lsproxy.exe > nul 2> nul
+taskkill /F /im LSSASvc.exe > nul 2> nul
+taskkill /F /im smart-agent-js-win.exe > nul 2> nul
+taskkill /F /im makeca.exe > nul 2> nul
 goto Task
 Echo.
 Echo.
