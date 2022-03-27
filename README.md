@@ -27,7 +27,7 @@ This is likely due to a tactic used by your school's IT department that anytime 
 
 Donations:
 
-Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate.
+Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate. Also note that crypto payments are prefered as they have little to zero fees. Also Coinbase trasactions are prefired as they are off chain and have zero fees. All the following addresses are compatible with Coinbase.
 
 Paypal and Creditcards:
 (Work in Progress)
