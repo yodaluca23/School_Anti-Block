@@ -4,7 +4,7 @@ This right now only includes LightSpeed Systems, but I have plans in the future 
 I also plan to add a user interface and make it overall more user-friendly.
 I suggest you change the name of the batch file in case your administrators get suspicious and check your computer files.
 
-How to install:
+How to use:
 
 1. Go to releases on this Github page.
 2. Download the latest School_Anti-Block.bat file onto your school computer.
