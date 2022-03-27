@@ -24,3 +24,29 @@ The reason you may get a popup saying "Windows protected your PC" is that this p
 
 Why does the program instantly close out when I open it?
 This is likely due to a tactic used by your school's IT department that anytime they detect a cmd process opened they have it immediately closed, preventing you from being able to use it. I am currently working and testing on a fix for this.
+
+Donations:
+
+Any Donations are very much appresated! Just remember to only send the spesifed currency to the spesified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfurtunet.
+
+Paypal and Creditcards:
+(Work in Progress)
+
+Ethereum:
+0x24D70A28cf732642318D1cC3e45cA92eBB464764
+
+Bitcoin:
+35kre2ZhPQEQbN2PkGVyie4SE57ZpPJPJq
+
+Bitcoin Cash:
+qr895xp5c6umqnrjd3cjty5h4wtfndyz4yutrm7rvc
+
+Dogecoin:
+DAAajHYuAKSnNCbc6fxNX1C4HmaCCGFfSA
+
+ApeCoin:
+0xE3c41624954a79c39c97eB21B7246fB416d4878E
+
+Ethereum Classic:
+0x122126Bc3cA2c3094666FE033eD73C1fd81A90b5
+
