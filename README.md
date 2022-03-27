@@ -17,7 +17,7 @@ Why does it say "Error Access Denied"?
 This is likely because your IT department for your school district has not given your user the privileges to end processes. I am currently working and testing on a fix for this.
 
 Is this a virus?
-This is not a virus, if you don't believe me then you can check the source code yourself, as this project is open source. Aswell I'm sure there would be numerous articles about this software if it was a virus as someone who previously looked at the source code would have found out.
+This is not a virus, if you don't believe me then you can check the source code yourself, as this project is open source. As well I'm sure there would be numerous articles about this software if it was a virus as someone who previously looked at the source code would have found out.
 
 Why does it say "Windows protected your PC"?
 The reason you may get a popup saying "Windows protected your PC" is that this program is not registered/signed by a Microsoft verified publisher, it may also be since Batch (.bat) files in their nature can be very destructive to your PC and can contain a virus, this program, however, does not. If you trust this program and wish to bypass this prompt simply click "More info" then click "Run anyway".
@@ -27,7 +27,7 @@ This is likely due to a tactic used by your school's IT department that anytime 
 
 Donations:
 
-Any Donations are very much appresated! Just remember to only send the spesifed currency to the spesified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfurtunet.
+Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate.
 
 Paypal and Creditcards:
 (Work in Progress)
@@ -49,4 +49,3 @@ ApeCoin:
 
 Ethereum Classic:
 0x122126Bc3cA2c3094666FE033eD73C1fd81A90b5
-
