@@ -1,5 +1,5 @@
 # School Anti-Block
-This is a very small batch (.bat) program, designed for Windows, to continuously kill school filter and monitoring software.
+School Anti-Block is a very small batch (.bat) program, designed for Windows, to continuously kill school filter and monitoring software.
 This right now only includes LightSpeed Systems, but I have plans in the future to add more such as Dyknow.
 I also plan to add a user interface and make it overall more user-friendly.
 I suggest you change the name of the batch file in case your administrators get suspicious and check your computer files.
