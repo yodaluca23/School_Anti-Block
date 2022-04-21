@@ -8,7 +8,7 @@ call :c 0D "================================" /n
 call :c 0C "    Windows School Anti-Block" /n
 call :c 09 "          Created by:" /n
 call :c 0B "          @yodaluca23" /n
-call :c 0A "            v1.2.1" /n
+call :c 0A "            v1.3.0" /n
 call :c 0D "================================" /n
 Echo.
 Echo.
@@ -19,6 +19,10 @@ cls
 :Task
 taskkill /F /im lsproxy.exe
 taskkill /F /im client32.exe
+taskkill /F /im Client32.exe
+taskkill /F /im Runplugin64.exe
+taskkill /F /im runplugin.exe
+
 taskkill /F /im LSSASvc.exe
 Echo Now attempting to kill processes...
 taskkill /F /im smart-agent-js-win.exe
