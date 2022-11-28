@@ -4,14 +4,14 @@ This right now only includes LightSpeed Systems, but I have plans in the future 
 I also plan to add a user interface and make it overall more user-friendly.
 I suggest you change the name of the batch file in case your administrators get suspicious and check your computer files.
 
-How to use:
+## How to use:
 
 1. Go to releases on this Github page.
 2. Download the latest School_Anti-Block.bat file onto your school computer.
 3. Open up the folder you saved it to and double-click it.
 4. Follow any and all instructions in the command prompt.
 
-FAQs:
+## FAQs:
 
 Why does it say "Error Access Denied"?
 This is likely because your IT department for your school district has not given your user the privileges to end processes. I am currently working and testing on a fix for this.
@@ -25,7 +25,7 @@ The reason you may get a popup saying "Windows protected your PC" is that this p
 Why does the program instantly close out when I open it?
 This is likely due to a tactic used by your school's IT department that anytime they detect a cmd process opened they have it immediately closed, preventing you from being able to use it. I am currently working and testing on a fix for this.
 
-Donations:
+## Donations:
 
 Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate. Also note that crypto payments are prefered as they have little to zero fees. Coinbase trasactions are also prefired as they are off chain and have zero fees. All the following addresses are compatible with Coinbase.
 
