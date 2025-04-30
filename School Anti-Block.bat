@@ -24,7 +24,7 @@ taskkill /F /im Runplugin64.exe
 taskkill /F /im runplugin.exe
 
 //ClassPolicy
-taskkill /F /im classpolicyagent.exe
+net stop "classpolicyagent"
 
 taskkill /F /im LSSASvc.exe
 Echo Now attempting to kill processes...
