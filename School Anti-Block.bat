@@ -13,6 +13,9 @@ call :c 0D "================================" /n
 Echo.
 Echo.
 Echo.
+
+start "" "wscript.exe" "GUI.vbs"
+
 pause
 :Error
 cls
