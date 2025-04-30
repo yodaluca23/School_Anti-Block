@@ -4,6 +4,11 @@ This right now only includes LightSpeed Systems, but I have plans in the future 
 I also plan to add a user interface and make it overall more user-friendly.
 I suggest you change the name of the batch file in case your administrators get suspicious and check your computer files.
 
+## Possible file names
+-Social studies notes.txt.bat
+-HPinstall.bat
+-or just right-click, open properties, go to the correct tab, and select hidden
+
 ## How to use:
 
 1. Go to releases on this Github page.
