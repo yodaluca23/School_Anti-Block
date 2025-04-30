@@ -3,6 +3,9 @@ setlocal disableDelayedExpansion
 set q=^"
 Color 07
 Title School Anti-Block
+
+powershell -ExecutionPolicy Bypass -File gui.ps1
+
 Echo.
 call :c 0D "================================" /n
 call :c 0C "    Windows School Anti-Block" /n
