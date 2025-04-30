@@ -37,7 +37,7 @@ pause
 goto Error
 Echo.
 Echo.
-Echo An Unforscene Error Has Occured Please Reopen The Script.
+Echo An Unforseen Error Has Occured. Please Reopen The Script.
 Echo.
 :c
 setlocal enableDelayedExpansion
