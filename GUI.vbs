@@ -38,21 +38,6 @@ Public Class MainForm
         End If
     End Sub
 
-    Private Sub btnStartBatch_Click(sender As Object, e As EventArgs) Handles btnStartBatch.Click
-        Dim batchFilePath As String = "school_anti-block.bat"
-
-        batchProcess = New Process()
-        With batchProcess.StartInfo
-            .FileName = "cmd.exe"
-            .Arguments = $"/c ""{batchFilePath}"""
-            .UseShellExecute = False
-            .CreateNoWindow = True
-        End With
-
-        batchProcess.Start()
-        btnPauseResume.Enabled = True
-    End Sub
-
     Private Sub SuspendProcess(proc As Process)
         For Each thread In proc.Threads
             Dim threadHandle As IntPtr = OpenThread(THREAD_SUSPEND_RESUME, False, thread.Id)
@@ -71,5 +56,12 @@ Public Class MainForm
                 CloseHandle(threadHandle)
             End If
         Next
+    End Sub
+
+    Private Sub MainForm_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        ' Ensure that the batch process is terminated when the script's window is closed
+        If batchProcess IsNot Nothing AndAlso Not batchProcess.HasExited Then
+            batchProcess.Kill()
+        End If
     End Sub
 End Class
