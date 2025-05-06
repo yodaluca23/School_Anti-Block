@@ -14,19 +14,17 @@ Echo.
 Echo.
 Echo.
 pause
+set processesToKill=lsproxy.exe client32.exe Client32.exe Runplugin64.exe runplugin.exe LSSASvc.exe smart-agent-js-win.exe makeca.exe
+
 :Error
 cls
 :Task
-taskkill /F /im lsproxy.exe
-taskkill /F /im client32.exe
-taskkill /F /im Client32.exe
-taskkill /F /im Runplugin64.exe
-taskkill /F /im runplugin.exe
+rem Iterate through the array and kill each process
+for %%p in (%processesToKill%) do (
+    taskkill /F /im %%p
+)
 
-taskkill /F /im LSSASvc.exe
 Echo Now attempting to kill processes...
-taskkill /F /im smart-agent-js-win.exe
-taskkill /F /im makeca.exe
 goto Task
 Echo.
 Echo.
