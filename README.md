@@ -32,20 +32,20 @@ Any Donations are very much appreciated! Just remember to only send the specifie
 Paypal and Credit cards:
 (Work in Progress)
 
-Ethereum:
+**Ethereum:**
 0x24D70A28cf732642318D1cC3e45cA92eBB464764
 
-Bitcoin:
+**Bitcoin:**
 35kre2ZhPQEQbN2PkGVyie4SE57ZpPJPJq
 
-Bitcoin Cash:
+**Bitcoin Cash:**
 qr895xp5c6umqnrjd3cjty5h4wtfndyz4yutrm7rvc
 
-Dogecoin:
+**Dogecoin:**
 DAAajHYuAKSnNCbc6fxNX1C4HmaCCGFfSA
 
-ApeCoin:
+**ApeCoin:**
 0xE3c41624954a79c39c97eB21B7246fB416d4878E
 
-Ethereum Classic:
+**Ethereum Classic:**
 0x122126Bc3cA2c3094666FE033eD73C1fd81A90b5
