@@ -6,10 +6,9 @@ I suggest you change the name of the batch file in case your administrators get 
 
 ## How to use:
 
-1. Go to releases on this Github page.
-2. Download the latest School_Anti-Block.bat file onto your school computer.
-3. Open up the folder you saved it to and double-click it.
-4. Follow any and all instructions in the command prompt.
+1. Download the latest [School_Anti-Block.bat](https://raw.githubusercontent.com/yodaluca23/School_Anti-Block/refs/heads/main/School%20Anti-Block.bat) file onto your school computer.
+2. Open up the folder you saved it to and double-click it.
+3. Follow any and all instructions in the command prompt.
 
 ## FAQs:
 
@@ -29,8 +28,8 @@ This is likely due to a tactic used by your school's IT department that anytime 
 
 Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate. Also note that crypto payments are preferred as they have little to zero fees. Coinbase trasactions are also preferred as they are off chain and have zero fees. All the following addresses are compatible with Coinbase.
 
-Paypal and Credit cards:
-(Work in Progress)
+**Solana (Preferred):**
+8ocVsMgvCjfkJVtzTiKd6TJvBHG1DTJh6RMNoxK8VKCy
 
 **Ethereum:**
 0x24D70A28cf732642318D1cC3e45cA92eBB464764
