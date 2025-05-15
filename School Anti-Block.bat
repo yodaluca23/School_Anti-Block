@@ -8,7 +8,7 @@ call :c 0D "================================" /n
 call :c 0C "    Windows School Anti-Block" /n
 call :c 09 "          Created by:" /n
 call :c 0B "          @yodaluca23" /n
-call :c 0A "            v1.3.0" /n
+call :c 0A "            v1.3.1" /n
 call :c 0D "================================" /n
 Echo.
 Echo.
