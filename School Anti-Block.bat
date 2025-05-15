@@ -23,6 +23,9 @@ taskkill /F /im Client32.exe
 taskkill /F /im Runplugin64.exe
 taskkill /F /im runplugin.exe
 
+//ClassPolicy
+net stop "classpolicyagent"
+
 taskkill /F /im LSSASvc.exe
 Echo Now attempting to kill processes...
 taskkill /F /im smart-agent-js-win.exe
