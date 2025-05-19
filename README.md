@@ -24,6 +24,9 @@ The reason you may get a popup saying "Windows protected your PC" is that this p
 ### Why does the program instantly close out when I open it?
 This is likely due to a tactic used by your school's IT department that anytime they detect a cmd process opened they have it immediately closed, preventing you from being able to use it. I am currently working and testing on a fix for this.
 
+### Why does it infinitely reloop
+This is supposed to happen. It is working properly.
+
 ## Donations:
 
 Any Donations are very much appreciated! Just remember to only send the specified currency to the specified address otherwise I MAY NOT GET YOUR DONATION, and that would be very unfortunate. Also note that crypto payments are preferred as they have little to zero fees. Coinbase trasactions are also preferred as they are off chain and have zero fees. All the following addresses are compatible with Coinbase.
